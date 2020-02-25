@@ -1,4 +1,4 @@
-### [Makers Academy](http://www.makersacademy.com) - Week 8&9 Group Programming Project
+### [Makers Academy](http://www.makersacademy.com) - Week 8 & 9 Group Programming Project
 
 Acebook - Team Luckerberg
 -
