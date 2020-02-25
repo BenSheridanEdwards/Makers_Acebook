@@ -103,3 +103,12 @@ First, clone this repository. Then:
 ## Versioning
 Acebook uses ruby version 2.5.0p0. To change ruby versions run
 ```rvm install ruby-2.5.0p0``` in the terminal.
+
+## <a name="Features">Features of MakersBnb</a>
+
+### Sign Up
+
+
+### Log In
+
+
