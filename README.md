@@ -108,7 +108,56 @@ Acebook uses ruby version 2.5.0p0. To change ruby versions run
 
 ### Sign Up
 
+##### Users can sign up to Acebook:
+![](https://github.com/BenSheridanEdwards/Makers_Acebook/blob/master/images/Acebook-Sign-Up.png)
 
 ### Log In
+
+##### Users can log in to Acebook if they have an account:
+![](https://github.com/BenSheridanEdwards/Makers_Acebook/blob/master/images/Acebook-Log-in.png)
+
+### Your own Wall
+
+##### Upon signing in, users are redirected to their wall, where the user can post messages on their wall for others to see:
+
+![](https://github.com/BenSheridanEdwards/Makers_Acebook/blob/master/images/Acebook-Bens-Wall.png)
+
+### Finding other Users
+
+##### Clicking on the users tab on the navigation bar directs you to a list of active users:
+
+![](https://github.com/BenSheridanEdwards/Makers_Acebook/blob/master/images/Acebook-List-Of-Users.png)
+
+### Seeing other Users' Walls
+
+##### User's can see other users walls, and everything they've posted on there
+
+![](https://github.com/BenSheridanEdwards/Makers_Acebook/blob/master/images/Acebook-Julies-Wall.png)
+
+### Users can also post on each others walls:
+
+![](https://github.com/BenSheridanEdwards/Makers_Acebook/blob/master/images/Acebook-Julie%26Ben-Post-On-Julies-Wall.png)
+
+### Commenting
+
+##### Users can comment on their posts:
+
+![](https://github.com/BenSheridanEdwards/Makers_Acebook/blob/master/images/Acebook-Ben-Add-Comments.png)
+
+##### And users can comment of others posts:
+
+![](https://github.com/BenSheridanEdwards/Makers_Acebook/blob/master/images/Acebook-JoinedImage-Julie-Wall-Posts-And-Comment.jpeg)
+
+### Editing and Deleting
+
+##### Users can edit and delete their posts and comments within 10 minutes of originally posting them:
+
+![](https://github.com/BenSheridanEdwards/Makers_Acebook/blob/master/images/Acebook-Ben-Can-Delete-His-Post-Within-10-Minutes.png)
+
+### Seeing all posts
+
+##### Every user can also see all the posts ever made, on the posts page: 
+
+![](https://github.com/BenSheridanEdwards/Makers_Acebook/blob/master/images/Acebook-Julie-All-Posts.png)
 
 
